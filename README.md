@@ -1,4 +1,4 @@
-**MRI Classification with MobileNetV2 + Explainability**
+<h1 align="center>"MRI Classification with MobileNetV2 + Explainability</h1>
 
 ## 🧠 Project Overview
 
